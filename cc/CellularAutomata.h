@@ -1,0 +1,6 @@
+#ifndef CELLULAR_AUTOMATA_H_
+#define CELLULAR_AUTOMATA_H_
+
+
+
+#endif
