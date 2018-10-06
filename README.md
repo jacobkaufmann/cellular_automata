@@ -1,2 +1,2 @@
 # cellular_automata
-Giving bits psychedelics
+Putting a bunch of bits in a room with a box full of psychedelics
