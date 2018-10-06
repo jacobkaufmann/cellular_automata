@@ -1,2 +1,2 @@
 # cellular_automata
-Putting a bunch of bits in a room with a box full of psychedelics
+Cellular automata models to study emergent behavior
